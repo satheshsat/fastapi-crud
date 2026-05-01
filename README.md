@@ -1,7 +1,7 @@
 # fastapi-crud
 To run below code
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 For production
-`fastapi run`
+```fastapi run```
 For development
-`fastapi dev`
+```fastapi dev```
